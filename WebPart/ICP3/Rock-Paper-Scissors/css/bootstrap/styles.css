@@ -1,0 +1,19 @@
+img {
+    height: 40%;
+    width: 40%;
+}
+
+h1{
+    text-align: center;
+    color: gold;    
+}
+
+h2{
+    text-align: center;
+    color: red;
+}
+
+body {
+    background-image: url("../background.jpg");
+    background-size: cover;
+}
